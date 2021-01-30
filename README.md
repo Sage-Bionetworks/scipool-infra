@@ -1,3 +1,5 @@
+# This repo has moved to https://github.com/Sage-Bionetworks-IT/organizations-infra/tree/master/sceptre/scipool
+
 # Overview
 A project to install, configure and manage an AWS account.
 
